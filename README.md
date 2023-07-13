@@ -23,7 +23,12 @@ Para controle dos LEDs utilizamos a biblioteca FastLED.
 
 
 
-
+## Alunos
+- Lázaro Pereira Vinaud Neto 14675396
+- Bruno Figueiredo Lima 14562383
+- Gabriel Antunes Afonso de Araujo 14571077
+- Pedro Henrique Ferreira Silva 14677526
+- 
 ## Referência
 
  - [FastLED](http://fastled.io/)
