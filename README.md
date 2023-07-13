@@ -10,6 +10,8 @@ O jogo funciona da seguinte maneira: O software gera uma imagem aleatória ao te
 Para reconstruir a imagem, o jogador dispôe de 4 botões: b1 gera uma linha vermelha descendente; b2 gera uma coluna roxa que se desloca da direita para a esquerda; b3 gera uma linha amarela ascendente e por fim, b4 gera uma coluna verde da esquerda para a direita.
 As cores não se apagam.
 
+Para controle dos LEDs utilizamos a biblioteca FastLED.
+
 ## Imagens
 
 ## Link - Vídeo
