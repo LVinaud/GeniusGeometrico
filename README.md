@@ -28,7 +28,7 @@ Para controle dos LEDs utilizamos a biblioteca FastLED.
 - Bruno Figueiredo Lima 14562383
 - Gabriel Antunes Afonso de Araujo 14571077
 - Pedro Henrique Ferreira Silva 14677526
-- 
+
 ## Referência
 
  - [FastLED](http://fastled.io/)
