@@ -15,6 +15,7 @@ Para controle dos LEDs utilizamos a biblioteca FastLED.
 ## Imagens
 
 ![Projeto-TinkerKad (1)](https://github.com/LVinaud/GeniusGeometrico/assets/128495824/baa43010-b67e-4109-b98d-a34967b11efd)
+ Circuito TinkerCad
 
 ## Link - Vídeo
 
