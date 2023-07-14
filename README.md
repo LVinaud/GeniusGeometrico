@@ -19,6 +19,12 @@ Para controle dos LEDs utilizamos a biblioteca FastLED.
  
 ![imagemgenius](https://github.com/LVinaud/GeniusGeometrico/assets/128495824/4dcff247-2cc4-4a11-98ad-43a6ec978ed7)
 
+![caixa](https://github.com/LVinaud/GeniusGeometrico/assets/128495824/9fe2a5bd-2f57-428f-a8a2-2bbe6ac5df79)
+
+![caixa1](https://github.com/LVinaud/GeniusGeometrico/assets/128495824/50fe75b9-76b4-44e6-9159-e25e744f09d9)
+
+
+
 ## Link - Vídeo
 
 
