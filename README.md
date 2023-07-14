@@ -26,7 +26,7 @@ Para controle dos LEDs utilizamos a biblioteca FastLED.
 
 
 ## Link - Vídeo
-
+https://youtu.be/9DBL5dvKqzw
 
 
 ## Alunos
